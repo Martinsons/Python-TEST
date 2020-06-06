@@ -1,0 +1,8 @@
+﻿ID,City,Location,Population,LAT,LON
+1,Rīga,Latvia,632 614,56.946285,24.105078
+2,Valmiera,Latvia,25 093,57.54108,25.42751
+3,Cēsis,Latvia,17 170,57.31188,25.27456
+4,Ventspils,Latvia,34 377,57.38944,21.56056
+5,Liepāja,Latvia,68 945,56.51667,21.01667
+6,Daugavpils,Latvia,82 604,55.88333,26.53333
+7,Rēzekne,Latvia,27 820,56.5,27.31667
